@@ -9,7 +9,7 @@ Networking — subnetting, VLANs, inter-VLAN routing, ACLs, practised in Cisco P
 Security fundamentals — TryHackMe rooms, Nmap for host discovery and service enumeration
 Toolkit
 
-Linux TCP/IP VLAN Routing ACL Nmap Bash C#
+Linux TCP/IP VLAN Routing ACL Nmap Bash 
 
 Get in touch
 

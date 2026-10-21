@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm Aram👋
 
-<!--
-**AramAbrahamyan/AramAbrahamyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BSc Computer Science (2025) · building a path into cybersecurity from the networking side.
 
-Here are some ideas to get you started:
+Currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Linux — shell, permissions, processes, file system (Skillbox Linux OS Structure, certified Jun 2024)
+Networking — subnetting, VLANs, inter-VLAN routing, ACLs, practised in Cisco Packet Tracer
+Security fundamentals — TryHackMe rooms, Nmap for host discovery and service enumeration
+Toolkit
+
+Linux TCP/IP VLAN Routing ACL Nmap Bash C#
+
+Get in touch
+
+LinkedIn · www.linkedin.com/in/aram-abrahamyan
